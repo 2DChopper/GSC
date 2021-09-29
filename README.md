@@ -1,2 +1,2 @@
 # GestaoDeSalaoDeCabeleireiro
- Projeto de gestao de um salao de cabeleireiro 
+O projeto  Sistema para Gestão de Salão de Cabeleireiro  é um software que será desenvolvido para o controle de um salão de beleza.
